@@ -1,0 +1,12 @@
+graph graphname{
+node[shape="ellipse", color="red", fillcolor="yellow"];
+0[label="23"];
+0 -- 1;
+1[label="23"];
+1 -- 2;
+2[label="12"];
+2 -- 3;
+3[label="1234"];
+3 -- 4;
+4[label="123"];
+}
